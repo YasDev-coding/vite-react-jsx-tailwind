@@ -1,6 +1,6 @@
 # React + Vite + Tailwincss Template
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides a minimal setup to get React working in Vite with HMR , some ESLint rules and Tailwind Css
 
 Currently, two official plugins are available:
 
